@@ -23,5 +23,11 @@ Com isso você deve ver o seguinte log:
 
 É possivel também testar a aplicação pelo insomnia, para isso foi disponibilizado um arquivo .json com os endpoints prontos para teste.
 
+Para executar a aplicação:
+
+~~~
+npm run start
+~~~
+
 obs: no arquivo insomnia existem duas variaveis de ambiente muito parecidas, para que a Api funcione normalmente, ao rodar os testes utilize a 
 variável ${BaseUrl}
